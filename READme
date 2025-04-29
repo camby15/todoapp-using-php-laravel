@@ -1,1 +1,6 @@
-
+run composer install
+breeze install
+Run npm install to install the frontend dependencies
+Run npm run dev to compile the assets
+Run php artisan migrate to run the database migrations
+php artisan serve
